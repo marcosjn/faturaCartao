@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+03/11/2017                       Auto-Atendimento                       09:37:38
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : MARCOS NONNENMACHER              
+Nr.Cartão       : 5549.****.****.7949         
+Modalidade      : OUROCARD PLATINUM MASTERCARD     
+ 
+Vencimento      : 05.11.2017          
+Total da fatura : R$ 1.846,98       
+Pagamento mínimo: R$ 277,05         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1 -                                         
+                                                     
+         SALDO FATURA ANTERIOR                  BR          1.740,02        0,00
+                                                     
+ 
+         Pagamentos/Cr&eacute;ditos                  
+23.10.2017DESCONTO TIT - PARC 04/06            BR              -15,00        0,00
+05.10.2017PGTO DEBITO CONTA 5972 000005014  200211           -1.740,02        0,00
+                                                     
+ 
+         Outros lan&ccedil;amentos                   
+23.10.2017ANUIDADE DIFERENCIADA TIT-PARC 04/06 BR               15,00        0,00
+                                                     
+ 
+         SubTotal                                               0,00        0,00
+                                                     
+ 
+         2 - LAURA HELENA HAHN                       
+                                                     
+ 
+         Pagamentos/Cr&eacute;ditos                  
+23.10.2017DESCONTO ADC - PARC 04/06            BR              -37,50        0,00
+                                                     
+ 
+         Restaurantes                                
+21.09.2017RESTAURANTE DOM JOANE  PORTO ALEGRE  BRA               49,75        0,00
+23.09.2017CHOCOLATRA  SHOP OPEN  PORTO ALEGRE  BRA               47,00        0,00
+28.09.2017GRAO FORTE CAFE        RECIFE        BRA               23,50        0,00
+08.10.2017RESTAURANTE PIMENTA RO PORTO ALEGRE  BRA              127,50        0,00
+16.10.2017RESTAURANTE FRAGATA    PORTO ALEGRE  BRA               23,90        0,00
+18.10.2017O GALO CINZA TRES FIGU PORTO ALEGRE  BRA               25,90        0,00
+23.10.2017O GALO CINZA TRES FIGU PORTO ALEGRE  BRA               25,90        0,00
+                                                     
+ 
+         Sa&uacute;de                                
+27.09.2017HNA*OBOTICARIO         CURITIBA      BRA               34,90        0,00
+14.10.2017MEDICOS SEM FRONTEIRAS RIO DE JANEIR BRA               45,00        0,00
+                                                     
+ 
+         Servi&ccedil;os                             
+22.09.2017C F MAURER PADARIA ME  PORTAO        BRA               25,50        0,00
+22.09.2017POSTO RACE             NOVO HAMBURGO BRA              165,48        0,00
+23.09.2017REDCO.                 Porto Alegre  BRA               30,00        0,00
+27.09.2017REDCO.                 Porto Alegre  BRA               25,00        0,00
+16.10.2017RODRIGO LOCATELLI DIST PORTO ALEGRE  BRA               16,50        0,00
+20.10.2017PAG*Caramello          PORTOALEGRE   BRA               20,00        0,00
+                                                     
+ 
+         Supermercados                               
+22.09.2017MERCADO SELBACH        FELIZ         BRA               77,48        0,00
+                                                     
+ 
+         Vestu&aacute;rio                            
+06.10.2017CAROLINE RAMOS WEBSTER PORTO ALEGRE  BRA              104,70        0,00
+                                                     
+ 
+         Outros lan&ccedil;amentos                   
+23.10.2017ANUIDADE DIFERENCIADA ADC-PARC 04/06 BR               37,50        0,00
+                                                     
+ 
+         Compras parceladas                          
+19.05.2017DAFITI COM BR PARC 05/06 SAO PAULO   BR               31,88        0,00
+21.04.2017PAYPAL*MZVF   PARC 06/06 SAO PAULO   BR               31,70        0,00
+20.09.2017LIVRE E LEVE* PARC 01/06 NOVA FRIBURGBR               53,24        0,00
+20.09.2017DAFITI COM BR PARC 01/07 SAO PAULO   BR               30,68        0,00
+22.08.2017PAYPAL*PRIVAL PARC 02/07 SAO PAULO   BR               30,85        0,00
+27.12.2016DANIEL CASSIN PARC 10/12 PORTO ALEGREBR               32,08        0,00
+28.07.2017WALMART COMER PARC 03/05 BARUERI     BR               51,45        0,00
+29.07.2017PRIVALIA*2156 PARC 03/03 SAO PAULO   BR              104,99        0,00
+02.06.2017MILON         PARC 05/06 PORTO ALEGREBR               54,16        0,00
+02.09.2017PCS SIBERIAN  PARC 02/02 PORTO ALEGREBR               49,95        0,00
+06.04.2017DAFITI.COM.BR PARC 07/08 SAO PAULO   BR               30,77        0,00
+06.03.2017BABY ENXOVAL* PARC 08/09 IBITINGA    BR               54,12        0,00
+09.10.2017PONTA CHIK    PARC 01/03 PORTO ALEGREBR              178,48        0,00
+10.08.2017PAYPAL*PRIVAL PARC 03/10 SAO PAULO   BR               44,99        0,00
+13.09.2017DSSB          PARC 02/05 PORTO ALEGREBR               63,20        0,00
+19.10.2017PRIVALIA*2253 PARC 01/04 SAO PAULO   BR               68,98        0,00
+20.10.2017KOY KOY BABY  PARC 01/02 PORTO ALEGREBR               67,45        0,00
+                                                     
+ 
+         SubTotal                                           1.846,98        0,00
+                                                     
+ 
+         Total                                              1.846,98        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  1.740,02 -  -1.792,52 +   1.899,48 =    1.846,98 -       0,00 =       1.846,98
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 20.214,00
+Saques                               : 20.214,00
+(Incluido no total transação à vista)
+Total para transações parceladas     :    0,00
+Crediário                            : 124.402,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  8,89      9,89
+Crédito Parcelado:                  8,37      8,37
+Permanência      :                  1,00      1,00
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PROGRAMA PONTO PRA VOCÊ
+--------------------------------------------------------------------------------
+    Pontuação acumulada Até 23.10.2017 :  19.461
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
