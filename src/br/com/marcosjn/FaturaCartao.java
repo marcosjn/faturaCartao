@@ -60,24 +60,25 @@ public class FaturaCartao {
 					}
 					// Separa somente as linhas que começam por uma data no
 					// formato DD/MM
-					if (linha.substring(0, 6).matches("[0-3][0-9]/[0-1][0-9] ")) {
+					if (linha.substring(0, 6).matches("[0-3][0-9]/[0-1][0-9] ")
+							|| linha.substring(0, 10).matches("[0-3][0-9]\\.[0-1][0-9]\\.[2][0][1-3][0-9]")) {
 						// Verifica se tem parcelamento
-						if (linha.substring(23, 33).matches("PARC [0-3][0-9]/[0-1][0-9]")) {
-							Integer parcela = Integer.valueOf(linha.substring(28, 30));
-							Integer total = Integer.valueOf(linha.substring(31, 33));
-							Float valor = Float.valueOf(linha.substring(60, 69).trim().replace(',', '.'));
+						if (linha.substring(24, 34).matches("PARC [0-3][0-9]/[0-1][0-9]")) {
+							Integer parcela = Integer.valueOf(linha.substring(29, 31));
+							Integer total = Integer.valueOf(linha.substring(32, 34));
+							Float valor = Float.valueOf(linha.substring(61, 70).trim().replace(',', '.'));
 							if (valor == 0f) {
-								valor = Float.valueOf(linha.substring(72, 81).trim().replace(',', '.')) * dolar;
+								valor = Float.valueOf(linha.substring(73, 82).trim().replace(',', '.')) * dolar;
 							}
 							if (total > parcela) {
 								dividaProximaFatura += valor;
 								dividaTotal += valor * (total - parcela);
 							}
 						} else {
-							linha = linha.substring(0, 32) + " " + linha.substring(32);
+							linha = linha.substring(0, 33) + " " + linha.substring(33);
 						}
-						String csv = linha.substring(0, 5) + ";" + linha.substring(9, 33).trim() + ";"
-								+ linha.substring(60, 69).trim() + ";" + linha.substring(72, 81).trim() + "\n";
+						String csv = linha.substring(0, 10) + ";" + linha.substring(10, 34).trim() + ";"
+								+ linha.substring(61, 71).trim() + ";" + linha.substring(73, 82).trim() + "\n";
 						System.out.print(csv);
 						gravarArq.printf(csv);
 					}
